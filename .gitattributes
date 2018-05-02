@@ -27,3 +27,4 @@ u-boot-2014.04.tar.bz2 filter=lfs diff=lfs merge=lfs -text
 gcc-linaro-4.8-2014.04.tar.xz filter=lfs diff=lfs merge=lfs -text
 samba-3.6.25.tar.gz filter=lfs diff=lfs merge=lfs -text
 u-boot-2012.04.01.tar.bz2 filter=lfs diff=lfs merge=lfs -text
+linux-3.4.11.tar.xz filter=lfs diff=lfs merge=lfs -text
